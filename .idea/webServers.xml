@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee3b72fd-da30-4646-88d5-1ff22b38012d" name="productsapi.teressaellison.com" url="http://productsapi.teressaellison.com">
+        <fileTransfer rootFolder="/home/dh_yx28km/productsapi.teressaellison.com" accessType="SFTP" host="productsapi.teressaellison.com" port="22" sshConfigId="35335e75-ec6f-496f-bded-10cf70575bda" sshConfig="dh_yx28km@productsapi.teressaellison.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
